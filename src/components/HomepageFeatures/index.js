@@ -10,6 +10,7 @@ const FeatureList = [
       <>
         I've worked as a full-time technical writer and lead technical writer for the past three years.
         <br></br>
+        <br></br>
         Here are few <b><a href="https://acstone-mts.github.io/acs-portfolio/docs/category/technical-writing">Examples</a></b>.
       </>
     ),
@@ -20,6 +21,7 @@ const FeatureList = [
     description: (
       <>
         Prior to my current career, I worked as a freelance journalist.
+        <br></br>
         <br></br>
         You can find a few select examples <b><a href="https://acstone-mts.github.io/acs-portfolio/docs/category/journalism">Here</a></b>.
       </>
@@ -32,6 +34,7 @@ const FeatureList = [
       <>
         This portfolio is built with <b><a href="https://docusaurus.io/">Docusaurus</a></b>. It showcases my ability to work in a Docs-as-code environment,
         leveraging Github Pages to work with Markdown files in a Github native environment.
+        <br></br>
         <br></br>
         The hosting repository can be found <b><a href="https://github.com/ACStone-MTS/acs-portfolio">Here</a></b>.
       </>
