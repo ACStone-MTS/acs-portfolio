@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Technical Writing',
-    Svg: require('@site/static/img/techwriting.jpg').default,
+    Svg: require('@site/static/img/techwriting.svg').default,
     description: (
       <>
         Examples of my technical writing.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Journalism',
-    Svg: require('@site/static/img/journalism.jpg').default,
+    Svg: require('@site/static/img/journalism.svg').default,
     description: (
       <>
         Examples of my journalism work.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Maker Blog',
-    Svg: require('@site/static/img/maker.jpg').default,
+    Svg: require('@site/static/img/maker.svg').default,
     description: (
       <>
         A blog detailing some of my maker projects.
