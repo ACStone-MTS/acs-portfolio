@@ -9,6 +9,7 @@ const FeatureList = [
     description: (
       <>
         I've worked as a full-time technical writer and lead technical writer for the past three years.
+        <br></br>
         Here are few <a href="https://acstone-mts.github.io/acs-portfolio/docs/category/technical-writing">Examples</a>.
       </>
     ),
@@ -19,6 +20,8 @@ const FeatureList = [
     description: (
       <>
         Prior to my current career, I worked as a freelance journalist.
+        <br></br>
+        You can find a few select examples <a href="https://acstone-mts.github.io/acs-portfolio/docs/category/journalism">Here.</a>.
       </>
     ),
   },
@@ -28,6 +31,8 @@ const FeatureList = [
     description: (
       <>
         In my off time, I build props and small electronic projects.
+        <br></br>
+        My blog can be found <a href="https://acstone-mts.github.io/acs-portfolio/blog">Here.</a>
       </>
     ),
   },
