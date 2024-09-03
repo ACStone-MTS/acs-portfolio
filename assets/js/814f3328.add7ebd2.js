@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkacs_portfolio=self.webpackChunkacs_portfolio||[]).push([[472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Designing the Hyperspace Compass","permalink":"/acs-portfolio/blog/first-blog-post","unlisted":false,"date":"2024-09-02T00:00:00.000Z"}]}')}}]);
