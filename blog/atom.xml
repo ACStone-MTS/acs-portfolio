@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/acs-portfolio/blog</id>
+    <title>The Portfolio of Adam C. Stone Blog</title>
+    <updated>2024-09-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/acs-portfolio/blog"/>
+    <subtitle>The Portfolio of Adam C. Stone Blog</subtitle>
+    <icon>https://github.com/acs-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Designing the Hyperspace Compass]]></title>
+        <id>https://github.com/acs-portfolio/blog/first-blog-post</id>
+        <link href="https://github.com/acs-portfolio/blog/first-blog-post"/>
+        <updated>2024-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Hyperspace Compass is a device designed for hyperspace travel prior to the advent of the astronavigational computer.]]></summary>
+        <content type="html"><![CDATA[<p>A <code>Hyperspace Compass</code> is a device designed for hyperspace travel prior to the advent of the <code>astronavigational computer</code>.</p>]]></content>
+        <author>
+            <name>Adam Stone</name>
+            <uri>https://www.instagram.com/stratafyre/</uri>
+        </author>
+    </entry>
+</feed>
