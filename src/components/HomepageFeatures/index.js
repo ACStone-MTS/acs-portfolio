@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/techwriting.svg').default,
     description: (
       <>
-        Examples of my technical writing.
+        I've worked as a full-time technical writer and lead technical writer for the past three years.
       </>
     ),
   },
@@ -17,16 +17,16 @@ const FeatureList = [
     Svg: require('@site/static/img/journalism.svg').default,
     description: (
       <>
-        Examples of my journalism work.
+        Prior to my current career, I worked as a freelance journalist.
       </>
     ),
   },
   {
-    title: 'Maker Blog',
+    title: 'Maker',
     Svg: require('@site/static/img/maker.svg').default,
     description: (
       <>
-        A blog detailing some of my maker projects.
+        In my off time, I build props and small electronic projects.
       </>
     ),
   },
