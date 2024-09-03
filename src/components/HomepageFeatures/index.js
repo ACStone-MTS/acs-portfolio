@@ -9,6 +9,7 @@ const FeatureList = [
     description: (
       <>
         I've worked as a full-time technical writer and lead technical writer for the past three years.
+        Here are few <a href="https://acstone-mts.github.io/acs-portfolio/docs/category/technical-writing">Examples</a>.
       </>
     ),
   },
