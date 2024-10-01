@@ -32,7 +32,7 @@ const FeatureList = [
     Svg: require('@site/static/img/maker.svg').default,
     description: (
       <>
-        This portfolio is built with <b><a href="https://docusaurus.io/">Docusaurus</a></b>. It showcases my ability to work in a Docs-as-code environment,
+        This portfolio is built with <b><a href="https://docusaurus.io/">Docusaurus</a></b>. It showcases my ability to work in a docs-as-code environment,
         leveraging Github Pages to work with Markdown files in a Github native environment.
         <br></br>
         <br></br>
