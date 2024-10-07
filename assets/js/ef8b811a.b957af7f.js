@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkacs_portfolio=self.webpackChunkacs_portfolio||[]).push([[947],{6600:t=>{t.exports=JSON.parse('{"authors":[{"name":"Adam Stone","title":"Maker","url":"http://www.adamcstone.com","imageURL":"https://github.com/acstone-mts.png","key":"acstone-mts","page":null,"count":0}]}')}}]);
