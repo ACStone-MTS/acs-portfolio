@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>The Portfolio of Adam C. Stone Blog</title>
-        <link>https://github.com/acs-portfolio/blog</link>
+        <link>https://github.com/blog</link>
         <description>The Portfolio of Adam C. Stone Blog</description>
         <lastBuildDate>Mon, 02 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Designing the Hyperspace Compass]]></title>
-            <link>https://github.com/acs-portfolio/blog/first-blog-post</link>
-            <guid>https://github.com/acs-portfolio/blog/first-blog-post</guid>
+            <link>https://github.com/blog/first-blog-post</link>
+            <guid>https://github.com/blog/first-blog-post</guid>
             <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[A Hyperspace Compass is a device designed for hyperspace travel prior to the advent of the astronavigational computer.]]></description>
             <content:encoded><![CDATA[<p>A <code>Hyperspace Compass</code> is a device designed for hyperspace travel prior to the advent of the <code>astronavigational computer</code>.</p>]]></content:encoded>
